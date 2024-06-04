@@ -1,0 +1,30 @@
+Do desenvolvimento da API
+
+Continuando do projeto criar estrutura.
+
+Agora estamos criando um CRUD.
+
+Complementamos o código.
+
+Instalamos o insomnia.
+
+No meu caso deu um pequeno erro mas já solucionado logo no primeiro get.
+
+Em preferências desligar a opção validate certificates resolveu o problema de carregamento do CRUD no INSOMNIA.
+
+Agora estou utilizando o post.
+
+Adicionei novos projetos ao banco, modifiquei com o PUT.
+
+Adicionei um comentário em um projeto, e criei para que quando fosse substituido o original eu tivesse controle do que tinha sido modificado. Mantive o arquivo.
+
+Testando a busca por seleção id 1, 2 , 3 , 4. Funcionou.
+
+Utilizando o delete exclui o item 4. Funcionou.
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"nomeDoProjeto": "Projeto A - Obras BR",
+		"area": "Construção Civil",
+		"status": true
+	},
+	{
+		"id": 2,
+		"nomeDoProjeto": "Projeto B - SENAI Fest",
+		"area": "Eventos",
+		"status": false
+	},
+	{
+		"id": 3,
+		"nomeDoProjeto": "Projeto C - Hackathon Fest",
+		"area": "Eventos",
+		"status": true
+	},
+	{
+		"id": 5,
+		"nomeDoProjeto": "Projeto D - Senai FIT Do Aluno",
+		"area": "Saúde",
+		"status": true
+	},
+	{
+		"id": 6,
+		"nomeDoProjeto": "Projeto D - Senai Games Do Aluno",
+		"area": "Entretenimento",
+		"status": false
+	}
+]
